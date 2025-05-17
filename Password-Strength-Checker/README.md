@@ -51,12 +51,11 @@ At least 1 special character (e.g., !@#$%^&*)
 
 Minimum length of 8 characters
 
-Enter your password: Pass123!
-Password is missing some requirements. Please try again.
+Enter your password: Pass123! Password is missing some requirements. Please try again.
 
 At least 2 uppercase letters
 
 At least 2 digits
 
-Password Strength: Weak
-Suggested Stronger Password: Ab7&Fg9#QpX
+Password Strength: Weak Suggested Stronger Password: Ab7&Fg9#QpX
+
