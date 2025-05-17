@@ -11,3 +11,12 @@ coding skills and solving practical problems.
 
 - Project 1: Password-Strength-Checker
 - Project 2: Tic-Tac-Toe Game
+- Project 3: Simple-Bank-App
+
+## How to Run
+
+Each project folder contains a `README` with instructions on how to run the project.
+
+---
+
+Feel free to explore and contribute!
