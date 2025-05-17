@@ -1,8 +1,8 @@
 # Password Strength Checker
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Status](https://img.shields.io/badge/Status-Completed-green)
 ![License](https://img.shields.io/badge/License-MIT-blue)
+![Status](https://img.shields.io/badge/Status-Completed-green)
 
 ---
 
@@ -58,5 +58,6 @@ At least 2 uppercase letters
 
 At least 2 digits
 
-Password Strength: Weak Suggested Stronger Password: Ab7&Fg9#QpX
+Password Strength: Weak 
+Suggested Stronger Password: Ab7&Fg9#QpX
 
