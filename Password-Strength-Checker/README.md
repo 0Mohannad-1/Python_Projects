@@ -60,4 +60,3 @@ At least 2 digits
 
 Password Strength: Weak 
 Suggested Stronger Password: Ab7&Fg9#QpX
-
