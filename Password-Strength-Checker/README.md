@@ -39,6 +39,7 @@ This is a simple Python project that checks the strength of a user's password ba
 
 ## Example Output
 
+```plaintext
 Your password must meet the following requirements:
 
 At least 2 uppercase letters
