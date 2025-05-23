@@ -49,8 +49,7 @@ Here Are Your Attributes As A Mage
 | Your strength: 10   |
 +---------------------+
 
-```text
-Future Improvements
+##🛠️ Future Improvements
 
 - Add more classes (e.g. Archer, Rogue, Healer)
 - Implement abilities or skill points
