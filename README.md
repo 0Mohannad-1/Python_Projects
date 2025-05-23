@@ -12,6 +12,7 @@ coding skills and solving practical problems.
 - Project 1: Password-Strength-Checker
 - Project 2: Tic-Tac-Toe Game
 - Project 3: Simple-Bank-App
+- Project 4: RPG-Character-Creator Game (In Progress)
 
 ## How to Run
 
